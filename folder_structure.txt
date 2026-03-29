@@ -1,5 +1,5 @@
 Folder PATH listing
-Volume serial number is 5ECF-F204
+
 C:.
 |   .gitignore
 |   components.json
